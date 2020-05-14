@@ -4,10 +4,5 @@ def run_guessing_game
   if user_input == 'exit'
     puts "Goodbye!"
   end
-  if user_input != 2
-    puts ""
-  end
-  if user_input == 100
-    puts "You guessed the correct number!"
-  end
+  puts user_input
 end
