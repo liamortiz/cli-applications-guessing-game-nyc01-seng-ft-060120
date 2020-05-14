@@ -1,4 +1,4 @@
 # Code your solution here!
-def exit
+def exit(msg)
   puts "Goodbye!"
 end
