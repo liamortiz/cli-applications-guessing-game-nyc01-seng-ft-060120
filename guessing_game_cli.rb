@@ -8,6 +8,6 @@ def run_guessing_game
     puts ""
   end
   if user_input == 100
-    puts ""
+    puts "You guessed the correct number!"
   end
 end
